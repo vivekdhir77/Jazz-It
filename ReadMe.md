@@ -9,7 +9,7 @@
                           __osx=10.16=0
                           __unix=0=0
 
-This code is designed to generate a sample given song and predefined chord progression. Below is an explanation of the code, its functionality, and the libraries used.
+This code is designed to generate a sample for a given song and predefined chord progression. Below is an explanation of the code, its functionality, and the libraries used.
 
 ## Code Functionality
 
